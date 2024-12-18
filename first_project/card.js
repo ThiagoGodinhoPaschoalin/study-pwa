@@ -1,0 +1,1 @@
+// Adicione aqui qualquer lógica JavaScript necessária para a página do cartão
